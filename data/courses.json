@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6358043b9e53c00e6eedc5e0",
+    "picture": "https://import.cdn.thinkific.com/176279/Vjgxx2AQWxlw7G145t7w_Array%20web%20thumb.png",
+    "title": "MAKE FUN OF JAVASCRIPT ARRAY",
+    "description": "A short chapter on JavaScript arrays where you can learn everything about JavaScript arrays. Few things are very important in JavaScript and arrays are one of them. Whatever you do, working in JavaScript requires a good understanding of arrays and objects. In this short chapter we will learn all about arrays in detail. I will implement most of the methods of array and try to understand its use professionally. We think that after a good completion of this short course, there will be no more confusion about arrays in JavaScript..\r\n"
+  },
+  {
+    "_id": "6358043b25c493814826dfeb",
+    "picture": "https://import.cdn.thinkific.com/176279/3DhsNcjwTdqZKdKrMPwT_React1-01.png",
+    "title": "Understand ReactJS Core Features - Absolute Beginner",
+    "description": "React is a UI library used to create interactive user interfaces. For frontend development using React you will need numerous other tools. Most tutorials don't focus on React's fundamental concepts while teaching complete frontend development. As a result of which problems are faced later. In this chunk we have only emphasized on the fundamentals of React. So that you have a good idea about React and you can think like React..\r\n"
+  },
+  {
+    "_id": "6358043b2a3360d2a76797ea",
+    "picture": "https://import.cdn.thinkific.com/176279/GCQyDrV3S7qL6DE8NWax_Cover-JS-1-low-reg-03.jpg",
+    "title": "Javascript: All You Need to Know",
+    "description": "The course is designed in such a way that everyone from beginners to experts in programming can benefit from it. The first few chapters discuss the fundamentals of programming. This is followed by a discussion of three important topics in JavaScript: arrays, objects, and functions. Then gradually advanced concepts such as functional programming, object oriented programming, scope, closure, prototype, asynchronous programming, dom manipulation are discussed. Along with this, the many uses of JavaScript are also discussed and demonstrated practically.\r\n"
+  },
+  {
+    "_id": "6358043b1cffec9b6eaf8c32",
+    "picture": "https://import.cdn.thinkific.com/176279/vNWAdnvKQtOSrvoeZApX_Dive%20Into%20NodeJS.jpg",
+    "title": "Dive Into NodeJS: A Beginner Approach to Lean NodeJS",
+    "description": "It is only a matter of time to learn NodeJS and develop large web applications using NodeJS with only knowledge of JavaScript. Because this course is designed in such a way that even if you don't have the slightest idea about backend development, you will learn how to develop a blog site for yourself, a company website or even an e-commerce site at the end of the course. Along with this, this course also shows how to create a dashboard. The main subject matter of this course is to develop multipage web applications and complete web development using NodeJS..\r\n"
+  },
+  {
+    "_id": "6358043b4b6c533356151e0f",
+    "picture": "https://import.cdn.thinkific.com/176279/GS7C4jAdT1WbnGer1GeG_EXPRESS%20JS.png",
+    "title": "ExpressJS Crash Course By Mahin",
+    "description": "This crash course is a short course on Express which is completely free for you to watch and learn. This course can be the first step to start web development using NodeJS where web development using ExpressJS is shown through a small project.\r\n"
+  },
+  {
+    "_id": "6358043b4b6c533356151v60",
+    "picture": "https://import.cdn.thinkific.com/176279/Lm8noohRUutwf7DLZ2hD_C%20Programming.jpg",
+    "title": "The C Programming Complete Course in Bangla",
+    "description": "This course work has not yet been completed. This page will be updated only after the course work is fully completed. Thanks for sticking around.\r\n"
+  }
+]
