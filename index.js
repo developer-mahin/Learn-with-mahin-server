@@ -17,9 +17,16 @@ app.get('/courses', (req, res)=>{
 
 app.get("/courses/:id", (req, res)=>{
     const id = req.params.id
-    const selectedId = courses.find(course => course._id === id)
-    res.send(selectedId)
+    const coursesId = courses.find(course => course._id === id)
+    res.send(coursesId)
 })
+
+app.get("/getPremium/:id", (req, res)=>{
+    const id = req.params.id
+    const cartId = courses.find(cart => cart._id === id)
+    console.log(id, cartId)
+    res.send(cartId)
+} )
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
